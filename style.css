@@ -113,6 +113,8 @@ height: auto;
 
 }
 h1#skills { 
+margin: 0; 
+padding:0mm;
 color: whitesmoke;   
 text-align: center;
 background-color: black;
@@ -121,7 +123,13 @@ background-color: black;
 
 }
 
+.container{
+padding-left: 0;
+padding-right: 0;
+display; flex;
 
+
+}
 
 
 
