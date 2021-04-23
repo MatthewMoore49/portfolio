@@ -113,8 +113,19 @@ height: auto;
     transform: translate(-50%, -50%);
 
 }
+div.col-md-3.mt-1{
+background-color: white;
 
 
+
+
+
+
+}
+button{ 
+color:rgb(17, 13, 20)
+background color=darkcyan
+}
 
 
 
