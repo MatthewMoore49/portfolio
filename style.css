@@ -124,7 +124,7 @@ background-color: white;
 }
 button{ 
 color:rgb(17, 13, 20)
-background color=darkcyan
+background-color=darkcyan;
 }
 
 
@@ -165,26 +165,6 @@ div.card-body{
   
 
 
-/* h1#projects{
-    
-    margin: 0; 
-    padding:0mm;
-    color: whitesmoke;   
-    text-align: center;
-    background-color: black;
-   
-    
-} */
-/* h1#education{
-    margin: 0; 
-    padding:0mm;
-    color: whitesmoke;   
-    text-align: center;
-    background-color: black;   
-} */
-
-
-
 .site-banner .banner-area .author .author-img{
     width: 200px;
     height: 200px;
@@ -205,4 +185,3 @@ div.card-body{
     }
 }
 
-/* #site-main */
